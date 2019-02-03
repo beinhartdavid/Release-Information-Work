@@ -5,12 +5,13 @@ Using Selenium, Openpyxl and Google Sheet Queries to transform release informati
 
 **Solution:** Scrape the Sharepoint site using Python and Selenium and write the results to an Excel workbook using Openpyxl. The results were then moved to a Google Sheet where queries could be run to spot trends and better analyze the data. 
 
-**Next Steps: The script is still in use and used to collect the most recent set of tests. 
+**Next Steps:** The script is still in use and used to collect the most recent set of tests. 
 To further improve the process:  
 - The script could be run automatically to detect new releases on the Sharepoint site
 - The results could be written directly to the Google Sheet and not transfered from Excel manually.
 
 
 **Sample Google Sheet:** https://drive.google.com/file/d/1PbgWVXZxY_ZazGD0Ef3toYouDnERvFcO/view?usp=sharing
-Image of Sharepoint Site
+  
+**Image of Sharepoint Site:** See uploaded image for an example of Sharepoint site used to pull data from. The Blue Column were Application Names, Red Application Categories and Black column Point of Contacts. 
 
